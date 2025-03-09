@@ -1,4 +1,4 @@
-# 🦁 ZooManagement (Zoologic)
+# 🦁 Zoo Management (Zoologic)
 
 ## 📌 Description
 
